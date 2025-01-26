@@ -1,4 +1,4 @@
-//26-01-2025
+// 26-01-2025
 
 // QUESTION 1 : (2127. Maximum Employees to Be Invited to a Meeting)
 
@@ -117,10 +117,10 @@
 //   }
 // };
 
-//ONE OBJECT ORIENTED PROGRAMMING QUESTION FROM CODECHEF
+// ONE OBJECT ORIENTED PROGRAMMING QUESTION FROM CODECHEF
 
 
-//QUESTION : Write a C++ class that demonstrates defining a class, declaring private and public members, creating an object, and using public member functions and data.
+// QUESTION : Write a C++ class that demonstrates defining a class, declaring private and public members, creating an object, and using public member functions and data.
 
 
 // #include<bits/stdc++.h>
@@ -178,9 +178,9 @@
 
 
 
-//ONE DATABASE MANAGEMENT SYSTEM QUESTION
+// ONE DATABASE MANAGEMENT SYSTEM QUESTION
 
-//QUESTION : 177. Nth Highest Salary
+// QUESTION : 177. Nth Highest Salary
 
 // CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 // BEGIN
